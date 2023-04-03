@@ -1,0 +1,85 @@
+.nav {
+    background-color: aqua;
+    
+}
+
+.nav ul {
+    overflow: auto;
+}
+
+.nav li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 24px;
+}
+
+.nav li a {
+    text-decoration: none;
+    padding: 3px 3px;
+    color: red;
+}
+
+
+.ist {
+    font-size: 40px;
+    margin-left: 70px;
+    margin-top: 90px;
+
+
+}
+
+body {
+    background-image: url('chetu.jpg');
+    background-size: cover;
+}
+
+.istlabel {
+    width: 100px;
+    height: 100px;
+
+    color: red;
+    margin-left: 70px;
+    font-size: large;
+
+}
+
+.two {
+
+    width: 70px;
+    height: 70px;
+
+    color: red;
+    margin-left: 70px;
+
+
+}
+
+
+.middle {
+    margin-left: 70px;
+}
+.third{
+    font-size: large;
+    float: right;
+    margin-top: -300px;
+    border:100px;
+    background-color: white;
+    text-align: center;
+    border-spacing:0 15px;
+    
+   
+}
+.button{
+    width:250px;
+    height: 40px;
+    background-color: green;
+
+}
+footer{
+    background-color: black;
+    height: fit-content;
+
+}
+#footer{
+    padding: 20px;
+}

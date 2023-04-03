@@ -1,0 +1,58 @@
+fieldset {
+    width: 400px;
+    float: inline-start;
+    background-color: darkblue;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+body {
+    background-image: url('bac.jpg');
+    margin: auto;
+}
+
+.box {
+    width: 400px;
+}
+
+.submit {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    width: 100px;
+    border: none;
+    padding: 16px 20px;
+    margin: 8px;
+}
+
+.reset {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    width: 100px;
+    border: 2px green;
+    padding: 16px 20px;
+    margin: 8px;
+
+}
+
+div {
+    float: right;
+    overflow: hidden;
+}
+
+label {
+    color: white;
+
+}
+
+label:after {
+   
+    content: " *";
+    color: red;
+
+}
+
+input {
+    border: 2px solid red;
+}

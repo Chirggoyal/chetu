@@ -1,0 +1,56 @@
+#img1 {
+    height: 400px;
+    width: 100%;
+}
+div{
+    margin: 40px 25px;
+    
+}
+.img{
+    height: 300px;
+    width: 600px;
+    margin-left: 17%;
+}
+.middle2{
+   margin-left: 30%;
+}
+
+#img2{
+    float: left;
+    margin-top: em;
+    margin-left: 5em;
+}
+
+#img3{
+    float: left;
+    margin-top: 34em;
+    margin-left: px;
+}
+.gallery {
+
+    margin: 5px;
+    border: 1px solid black;
+    display: flex;
+    width: 80%;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.gallery img {
+    height: auto;
+    width: 180px;
+
+}
+
+.gallery:hover {
+
+    margin: 5px;
+    border: 1px solid rgb(235, 7, 7);
+    width: 90%;
+    margin: 30px;
+}
+
+.desc {
+    font-family: cursive;
+}
